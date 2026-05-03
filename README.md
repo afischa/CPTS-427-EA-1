@@ -6,3 +6,6 @@ We first started out by making a component diagram of the project for what we ho
 The task I was assigned was to collect the places that were around the user and figure out which one they are facing and have it pop up on the screen. I did this by using an API call to get wiki articles from wiki maps in a certain radius of users longitude and latitude. Then using the compass I get the direction the user is facing and figure out what place is closest to that direction. 
 	
 I think I contributed well to my group. I think something I would change if we could redo the event is to get the project up and going faster. We had some trouble and ran into issues getting our repo set up and configured which created a bottleneck where only one person could realistically work on setting up the project causing the rest of us only to be doing research which can only get you so far. This caused us not to be able to implement extra features to our project that we wanted to add. 
+
+
+<img width="2075" height="1110" alt="image" src="https://github.com/user-attachments/assets/62212619-44e7-48ad-bc14-2ec01d54a2ae" />
